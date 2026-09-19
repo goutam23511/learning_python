@@ -1,5 +1,5 @@
-car="hi"
-car_running=""
+car=""
+car_running=False
 
 while car!="quit":
     car=input("> ").lower()
