@@ -10,4 +10,4 @@ elif int(split[0])>24:
 else:
     split[0]=int(split[0])-12
 
-print(f'{split[0]}:{split[1]}')
+print(f'The time is {split[0]}:{split[1]}')
